@@ -1,1 +1,1 @@
-print('Gerando conflito. E tudo bem =)')
+print('Mundando conteúdo deste arquivo')
